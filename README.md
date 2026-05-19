@@ -50,21 +50,22 @@ Student-Management-System/
 ├── README.md
 └── Screenshots
 ```
+
 # Some Demo Screenshots
 
 ## Main Menu
 
 This image shows the main menu of the Student Management System.
 
-![Main Menu](user%input.png)
+![Main Menu](user%20input.png)
 
 ---
 
 ## View All Student
 
-This image display All Student Record.
+This image displays all student records.
 
-![Insert Student](View%All%Student.png)
+![View All Student](View%20All%20Student.png)
 
 ---
 
@@ -72,7 +73,7 @@ This image display All Student Record.
 
 This image demonstrates inserting a new student record.
 
-![Insert Student](insert%student.png)
+![Insert Student](insert%20student.png)
 
 ---
 
@@ -80,12 +81,14 @@ This image demonstrates inserting a new student record.
 
 This image shows searching student records using ID.
 
-![Search Student](Search%Student%by%ID.png)
+![Search Student](Search%20Student%20by%20ID.png)
 
 ---
 
 ## Display Statistics
 
 This image displays statistics of students.
+
+![Statistics](Display%20Statistics.png)
 
 ![Statistics](Display%Statistics.png)
