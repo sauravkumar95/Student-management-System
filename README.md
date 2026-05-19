@@ -91,4 +91,4 @@ This image displays statistics of students.
 
 ![Statistics](Display%20Statistics.png)
 
-![Statistics](Display%Statistics.png)
+Thank you for visiting my student management system repository.
