@@ -80,4 +80,4 @@ This image shows searching student records using ID.
 
 This image displays statistics of students.
 
-![Statistics](Screenshot%202026-05-19%20194700.png)
+![Statistics](Screenshot%202026-05-19%20194814.png)
